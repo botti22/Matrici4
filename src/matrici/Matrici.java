@@ -6,7 +6,7 @@ package matrici;
 
 /**
  *
- * @author Sandro Gallo
+ * @author Alessandro Bottiglieri
  */
 public class Matrici {
 
